@@ -1,2 +1,2 @@
-# Zeniths Ervinas ML
-This is my current work I have made on ML
+# Zeniths
+This is a team project made by 3rd Year Computer Science Infrastructure TUD Students.
